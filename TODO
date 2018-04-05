@@ -1,0 +1,8 @@
+TODO
+====
+
+test with and without dropping
+hook undefined functions
+
+## Determine IOCTLs
+- Get parameter from copy*user
